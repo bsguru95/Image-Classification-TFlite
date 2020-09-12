@@ -1,6 +1,9 @@
-# tflite_flutter_ml
+# Image Classifer application using Flutter with TFlite
 
-A new Flutter application.
+A new Flutter application which uses TFLite to enable on-device Machine Learning.
+
+This app uses a machine learning model with mobilenetv2 dataset of images and labels. 
+The app allows user to either upload image from gallery or capture a picture through camera and predicts what that image could possibly be according to its trained data.
 
 ## Getting Started
 
